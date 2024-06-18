@@ -21,14 +21,12 @@ Thank you for taking the time to learn more about me and my work!
 
 # Projects
 
-### Analyzing Patient's Medical Appointments
+### Amazon Prime Video - Movies and TV Shows
 
-- Description: Exploring Factors Associated with No-Show Appointments in Medical Settings
-- Repository: [GitHub](https://github.com/dthatprince/Analyzing-Medical-Appointments)
+- Description: This dataset includes comprehensive listings of all Amazon Prime's movies and TV shows, featuring details like cast, directors, ratings, release year, and duration.
+- Repository: 
 
-  ###
-
-  hgg
+ 
 
 
 ## Contact Me
