@@ -15,7 +15,6 @@ Thank you for taking the time to learn more about me and my work!
 
 - Email: topzyakinlawon@gmail.com
 - LinkedIn: [Profile](www.linkedin.com/in/akintemitope)
-- PowerBI: [Dashboards](https://public.tableau.com/app/profile/prince.nwaekwu/vizzes)
 
 ---
 
