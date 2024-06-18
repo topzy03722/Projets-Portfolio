@@ -24,7 +24,7 @@ Thank you for taking the time to learn more about me and my work!
 ### Amazon Prime Video - Movies and TV Shows
 
 - Description: This dataset includes comprehensive listings of all Amazon Prime's movies and TV shows, featuring details like cast, directors, ratings, release year, and duration.
-- Repository: 
+- Repository: https://github.com/topzy03722/topzy.github.io/blob/main/prime%20vid.pbix
 
  
 
