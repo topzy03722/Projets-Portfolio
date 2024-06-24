@@ -29,7 +29,7 @@ Thank you for taking the time to learn more about me and my work!
 
  ### HR Analytics (Attrition)
  - The HR Analytics Dashboard provides a comprehensive overview of employee attrition within the organization. This interactive dashboard helps HR professionals and management teams understand the factors contributing to employee turnover and identify key areas for improvement.
- - Repository: 
+ - Repository: https://github.com/topzy03722/HR-Analytics-Dashboard
 
 
 ## Contact Me
